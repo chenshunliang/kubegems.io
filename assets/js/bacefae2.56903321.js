@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkubegems_docs=self.webpackChunkkubegems_docs||[]).push([[1063],{89008:function(e){e.exports=JSON.parse('{"allTagsPath":"/kubegems.io/blog/tags","slug":"/kubegems.io/blog/tags/cilium","name":"cilium","count":1,"permalink":"/kubegems.io/blog/tags/cilium"}')}}]);
